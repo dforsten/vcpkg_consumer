@@ -3,6 +3,6 @@
 	"test-project-a"
   ],
   "overrides": [
-	{ "name": "test-project-a", "version": "1.0.0" }
+	{ "name": "test-project-a", "version": "1.0.0", "port-version": 2 }
   ]
 }
