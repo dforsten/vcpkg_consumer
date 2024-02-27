@@ -1,0 +1,15 @@
+{
+	"default-registry": {
+		"kind": "git",
+		"baseline": "ba8c06d8597dd309313a01b8e185dcf930022b92",
+		"repository": "git@github.com:dforsten/vcpkg_reg.git"
+	},
+	"registries": [
+		{
+			"kind": "git",
+			"baseline": "2c401863dd54a640aeb26ed736c55489c079323b",
+			"repository": "https://github.com/microsoft/vcpkg",
+			"packages": ["vcpkg-cmake", "vcpkg-cmake-config"]
+		}			
+	]
+}
